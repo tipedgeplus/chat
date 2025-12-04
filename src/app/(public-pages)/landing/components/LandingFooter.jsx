@@ -68,7 +68,7 @@ const LandingFooter = ({ mode }) => {
                             )}
                         </Link>
                         <p className="text-center">
-                            Copyright © {year} Theme_Nate. All rights reserved.
+                            Tip Edge Plus 2025 - todos los derechos reservados
                         </p>
                     </div>
                 </div>
